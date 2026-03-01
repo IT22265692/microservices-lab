@@ -43,13 +43,13 @@ Each service runs independently inside Docker containers.
 ## 📂 Project Structure
 
 microservices-lab/
-│
+
 ├── item-service/
 ├── order-service/
 ├── payment-service/
 ├── api-gateway/
 ├── docker-compose.yml
-└── README.md
+
 
 ---
 
